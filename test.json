@@ -1,9 +1,24 @@
 [
   {
-    "name": "Web component Success",
+    "name": "Success",
     "iconPath": "https://img.icons8.com/ios/50/escalator.png",
     "htmlPath": "https://github.com/artakhv/calculator/blob/master/index.html",
     "description": "Bla bla bla",
-    "moreUrl": "https://doc.superannotate.com/..."
-  }
+    "moreUrl": "https://doc.superannotate.com"
+  },
+  {
+    "name": "No html",
+    "iconPath": "https://img.icons8.com/ios/50/escalator.png",
+    "htmlPath": "https://github.com/artakhv/calculator/blob/master/index.js",
+    "description": "Bla bla bla",
+    "moreUrl": "https://doc.superannotate.com"
+  },
+   {
+    "name": "No valid github link",
+    "iconPath": "https://img.icons8.com/ios/50/escalator.png",
+    "htmlPath": "https://github.com/not/valid/link/doctor/index.html",
+    "description": "Bla bla bla",
+    "moreUrl": "https://doc.superannotate.com"
+  },
+  
 ]
