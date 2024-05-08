@@ -33,5 +33,12 @@
     "htmlPath": "https://github.com/not/valid/link/doctor/index.html",
     "description": "Bla bla bla",
     "moreUrl": "https://doc.superannotate.com"
+  },
+  {
+    "name": "Something went wrong",
+    "iconPath": "https://img.icons8.com/ios/50/escalator.png",
+    "htmlPath": "https://github.com/Artakhv/caasdasdasster/index.html",
+    "description": "Bla bla bla",
+    "moreUrl": "https://doc.superannotate.com"
   }
 ]
